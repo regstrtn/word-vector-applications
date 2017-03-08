@@ -1,0 +1,1 @@
+Cosine similarity: 10.81081081081081% accuracyCosine similarity: 13.513513513513514% accuracyCosine similarity: 13.513513513513514% accuracy
